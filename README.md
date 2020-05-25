@@ -1,0 +1,2 @@
+# SanityReport
+Sanity for Shopclues
