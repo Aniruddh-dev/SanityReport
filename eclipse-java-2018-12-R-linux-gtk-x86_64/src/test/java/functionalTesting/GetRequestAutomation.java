@@ -11,7 +11,7 @@ public class GetRequestAutomation {
 
 	@Test
 
-	public void getRequestAutomation()
+	  public void getRequestAutomation()
 
 	{
 
